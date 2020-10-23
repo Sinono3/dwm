@@ -6,3 +6,6 @@ Makes the following changes to the original dwm:
 
 - Swallow patch.
 - Smart borders patch.
+- Emoji support.
+- Reduces the tag amount to 6.
+- Upgrades the font size for small screens.
